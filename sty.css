@@ -1,0 +1,53 @@
+body{
+margin:0 auto;
+background-image: url("wal.jfif");
+background-repeat:no-repeat;
+background-size:100% 720px;
+}
+input[type=text] {
+  width: 20%;
+  padding: 10px 15px;
+  margin: 8px 0;
+border: 2px solid black;
+  box-sizing: border-box;
+}
+select {
+  width: 20%;
+  padding: 10px 15px;
+  border: 2px solid black;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+}
+input[type=password] {
+  width: 20%;
+  padding: 10px 15px;
+  margin: 8px 0;
+border: 2px solid black;
+  box-sizing: border-box;
+}
+
+textarea {
+  width: 70%;
+  height: 150px;
+  padding: 10px 15px;
+  box-sizing: border-box;
+  border: 2px solid black;
+  border-radius: 4px;
+  background-color: #f8f8f8;
+  resize: none;
+}
+.container{
+width:800px;
+height:450px;
+text-align:center;
+margin:0 auto;
+background-color:rgba(44,62,80,0.7);
+border-radius:05px;
+margin:0 auto;
+margin-top:160px;
+}
+.container img{
+width:200px;
+height:50x;
+margin:10px;
+}
